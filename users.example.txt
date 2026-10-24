@@ -1,0 +1,6 @@
+# File mẫu. Sao chép thành users.txt rồi chỉnh sửa:
+#   Copy-Item users.example.txt users.txt
+# Định dạng: tên_user:mật_khẩu  (dòng bắt đầu bằng # là chú thích)
+huy:123456
+an:abc123
+binh:matkhau
